@@ -1,16 +1,57 @@
-## Hi there 👋
+<img width='100%' src='https://capsule-render.vercel.app/api?type=waving&color=030303&height=120&section=header' />
 
-<!--
-**thsousax/thsousax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Hi 👋, I'm Antonio Thiago</h2>
+<h3>Backend developer passionate about technology and innovation</h3>
 
-Here are some ideas to get you started:
+<hr/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4>Programming Languages</h4>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,nodejs,ts,java" />
+  </a>
+</p>
+
+<h4>Frontend Development</h4>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css" />
+  </a>
+</p>
+
+<h4>Backend Development</h4>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nestjs,nginx,express" />
+  </a>
+</p>
+
+<h4>Database</h4>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,redis" />
+  </a>
+</p>
+
+<h4>Cloud</h4>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws" />
+  </a>
+</p>
+
+<h4>Devops</h4>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ansible,docker,kubernetes,azure" />
+  </a>
+</p>
+
+<h4>Version control</h4>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,azure" />
+  </a>
+</p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=030303&height=120&section=footer"/>
